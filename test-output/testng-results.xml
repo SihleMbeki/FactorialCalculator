@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="64258" started-at="2020-06-10T20:32:38Z" finished-at="2020-06-10T20:33:42Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="64258" started-at="2020-06-10T20:32:38Z" finished-at="2020-06-10T20:33:42Z">
+      <class name="FactorialCalculator.Calculator.testing.Factorial">
+        <test-method status="PASS" signature="createReport()[pri:0, instance:FactorialCalculator.Calculator.testing.Factorial@458ad742]" name="createReport" is-config="true" duration-ms="189" started-at="2020-06-10T22:32:38Z" finished-at="2020-06-10T22:32:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createReport -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:FactorialCalculator.Calculator.testing.Factorial@458ad742]" name="setup" is-config="true" duration-ms="4151" started-at="2020-06-10T22:32:38Z" finished-at="2020-06-10T22:32:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="VerifyFactorial()[pri:0, instance:FactorialCalculator.Calculator.testing.Factorial@458ad742]" name="VerifyFactorial" duration-ms="24743" started-at="2020-06-10T22:32:42Z" finished-at="2020-06-10T22:33:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyFactorial -->
+        <test-method status="PASS" signature="cleanup()[pri:0, instance:FactorialCalculator.Calculator.testing.Factorial@458ad742]" name="cleanup" is-config="true" duration-ms="96" started-at="2020-06-10T22:33:07Z" finished-at="2020-06-10T22:33:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanup -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:FactorialCalculator.Calculator.testing.Factorial@458ad742]" name="setup" is-config="true" duration-ms="2330" started-at="2020-06-10T22:33:07Z" finished-at="2020-06-10T22:33:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="VerifyFactorialError()[pri:0, instance:FactorialCalculator.Calculator.testing.Factorial@458ad742]" name="VerifyFactorialError" duration-ms="32811" started-at="2020-06-10T22:33:09Z" finished-at="2020-06-10T22:33:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyFactorialError -->
+        <test-method status="PASS" signature="cleanup()[pri:0, instance:FactorialCalculator.Calculator.testing.Factorial@458ad742]" name="cleanup" is-config="true" duration-ms="111" started-at="2020-06-10T22:33:42Z" finished-at="2020-06-10T22:33:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanup -->
+        <test-method status="PASS" signature="closeReport()[pri:0, instance:FactorialCalculator.Calculator.testing.Factorial@458ad742]" name="closeReport" is-config="true" duration-ms="369" started-at="2020-06-10T22:33:42Z" finished-at="2020-06-10T22:33:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeReport -->
+      </class> <!-- FactorialCalculator.Calculator.testing.Factorial -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
